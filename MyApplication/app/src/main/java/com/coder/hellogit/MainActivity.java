@@ -11,6 +11,7 @@ import android.view.MenuItem;
 import android.widget.ScrollView;
 
 public class MainActivity extends AppCompatActivity {
+    private TextView textView;
     private ScrollView scrollView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
